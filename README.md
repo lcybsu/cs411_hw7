@@ -1,7 +1,7 @@
 # cs411_hw7
 This project is to construct a minimum spanning tree using Prim's algorithm.
 
-prim_firstMethod.cpp has a time complexity of o(n^2). 
+prim_firstMethod.cpp has a time complexity of O(n^2). 
 prim_secondMethod.cpp has a time complexity of O(#edge log(#vertices)) using priority_queue in STL. 
 
 Run the program and enter the graph setting following the instruction.
